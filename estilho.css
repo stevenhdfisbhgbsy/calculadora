@@ -1,0 +1,37 @@
+body{
+
+    margin:0;
+    font-family: cursive;
+}
+header{
+    background-color: aqua;
+    padding: 18px ;
+    margin: bottom 18px; ;
+}
+
+header > h2{
+    color: black;
+}
+footer{
+
+background-color: darkblue;
+font-family:  monospace;
+padding: 18px;
+}
+
+footer > ul{
+color: aquamarine;
+font-weight:bold ;
+}
+
+.container{
+
+font-family: monospace;
+padding: 20px;
+margin:auto;
+
+width:60%;
+border: 2px solid darkblue;
+border-radius:15px;
+text-align: center;
+}
