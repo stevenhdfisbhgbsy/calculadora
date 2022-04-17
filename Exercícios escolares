@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>QUIZ: INAZUMA ELEVEN</title>
+    <link rel="stylesheet" href="estilho.css">
+</head>
+
+<body>
+    <center>
+          <h1><em> QUIZ: INAZUMA ELEVEN</em></h1>
+    <img src="Emblema.jpg" width="450px">
+    </center>
+
+    <p> quantos gols o time inazuma levou em seu primeiro jogo </p>
+
+    <p id="letra"> em que ano foi criado o desenho Super onde (Inazuma eleven </p>
+
+    <p id="letra"> Qual e o nome do capitão do time inazuma eleven </p>
+</body>
+     <head>
+         <center>
+          <select name="Questão 1" id=" Quantos Gols o time inazuma levou em seu primeiro jogo">
+            <option value="10 A 0"> 10 A 0</option>
+            <option value="5 A 5"> 5 A 5</option>
+            <option value=" Embati"> Embati</option>
+            <option value=" 4 A 3"> 4 A 3</option>
+            <option value=" 7 A 2 GOLEADA"> 7 A 2 GOLEADA</option>
+            <Option value=" DERROTA UMILHANTE"> UMILHANTE</Option>
+            <OPtion value=""></OPtion>
+          </select>
+         </center>     
+    </head>
+            <center><button id="Enviar"> Enviar</button></center>
+
+            <head>
+                <center>
+                    <select name="Questão 2" id=" em que ano foi criado o desenho Super onde (Inazuma eleven">
+                        <option value="1980">1980</option>
+                           <option value="2000">2000</option>
+                           <option value="2008">2008</option>
+                           <option value="2015">2015</option>
+                   </select>
+                </center>
+            </head>
+                    <center><button id="Enviar">Enviar</button></center>
+</html>
+
+                <head>
+                        <center><select name="Questão 3" id=""> Qual e o nome do capitão do time inazuma eleven
+                            <option value="Satoro Endo">Satoro Endo</option>
+                            <option value="Fubuqui">Fubuqui</option>
+                            <option value="Goenje">Goenje</option>
+                            <option value="Someoca">Someoca</option>
+                        </select>
+                    </center>
+                </head>
+                
+                <center><button id="Enviar"> Enviar</button></center>
+                </head>
